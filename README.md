@@ -15,3 +15,9 @@ os estilos utilizados na tela Home.
 
 3. Altere o código de App.js para exibir apenas o conteúdo de Home.
 
+## Print da tela
+
+O resultado da tela pode ser observado a seguir:
+
+![Screenshot_20220316-231730](https://user-images.githubusercontent.com/84870965/158884238-513f185d-169e-4e37-9374-78908a15f382.png)
+
